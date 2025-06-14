@@ -131,3 +131,89 @@ printf ("CONTINUE O JOGO , INSERINDO DADOS DA SEGUNDA CARTA\n");
         return 0;
         
     }
+
+
+
+
+
+
+// #include <stdio.h>
+
+
+
+ //   int main ()    {
+
+  //      char  estado[01];
+  //      char  codigo[03];
+  //      char  cidade[15];
+  //      int   populacao;
+  //      float area;
+  //      float pib;
+  //      int   pontos; 
+        float densidade;
+        float pippercap;
+
+
+        
+// printf ("INICIO DE JOGO:\n");
+
+// printf ("DIGITE OS DADOS DA PRIMEIRA CARTA DO JOGO\n");
+
+      //       printf("Digite o Códiogo do Estado: sendo aceito somente A,B,C,D,E,F,G,H:\n");
+      //       scanf("%c", estado);
+
+       //      printf("Digite o Código do seu Estado:ATENÇÃO! LETRA  ANTERIOR + 1 2 3 OU 4:\n");
+      //       scanf("%s" , &codigo);
+
+
+         //    printf("Digite o Nome da sua Cidade: ATENÇÃO! SOMENTE NOME SEM SEPARAÇÃO:\n");
+        //     scanf("%s" , &cidade);
+ 
+
+         //    printf("Digite a População da Cidade: ATENÇÃO! DIGITAR NÚMERO INTEIRO: \n");
+          //   scanf("%d", &populacao);
+
+
+         //   printf("Digite a Área da Cidade: ATENÇÃO! DIGITAR DECIMAL SEPARADO POR PONTO (.) \n");
+        //    scanf("%f" , &area);
+
+       //     printf("Digite o PIB da Cidade: ATENÇÃO! DIGITAR DECIMAL SEPARADO POR PONTO (.) \n");
+        //    scanf("%f", &pib);
+
+         //   printf("Digite a quantidade de pontos Tutísticos da cidade: \n");
+         //   scanf("%d", &pontos);
+
+
+       //    densidade = (populacao)/(area);
+       //    pippercap = (pib)/(populacao);
+
+
+             
+       //     printf ("ESTADO: %c\n", estado);
+
+       //     printf ("CÓDIGO: %s\n", codigo);
+
+         //   printf ("CIDADE: %s\n", cidade);
+
+          //  printf ("POPULAÇÃO: %d\n", populacao);
+
+         //   printf ("ÁREA: %f\n", area);
+
+        //    printf ("PIB: %f\n", pib);
+
+        //    printf ("PONTOS TURISTICOS: %d\n", pontos);
+
+       //     printf ("A Densidade populacional e: %f \n", densidade);
+
+         //   printf ("PIB per Capita  e: %f \n", pippercap);
+
+        
+     //    printf ("CONTINUE O JOGO , INSERINDO DADOS DA SEGUNDA CARTA\n");
+
+         
+      
+      //  return 0;
+        
+//    }
+//
+
